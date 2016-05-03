@@ -4,7 +4,7 @@ Adform Advertising SDK Unity Plugin provides a way to integrate Adform ads in Un
 
 ## Downloading the Plugin
 
-Our plugin is available on [GitHub](https://github.com/adform-advertising-sdk-unity-plugin).
+Our plugin is available on [GitHub](https://github.com/adform/adform-advertising-sdk-unity-plugin).
  
 To add the downloaded plugin:
 
@@ -13,6 +13,12 @@ To add the downloaded plugin:
 `AdformAdvertisingSDK.unitypackage` to import.
 3. In your GameObject, click `Add Component -> New Script`.
 4. Integrate ads in that script. The examples could be found in `Assets/Adform/Advertising/Sample/` directory.
+
+You will also need to add Adform Advertising SDK to your Unity project, you can find it here: [iOS](https://github.com/adform/adform-ios-sdk), [Android](https://github.com/adform/adform-android-sdk).
+To add Adform Advertisign SDK to your project:
+
+1. Open your Unity project.
+2. Go to `Assets -> Import New Asset` and select the `AdformAdvertising.framework` or `advertising-sdk-xxx.aar` respectively for iOS or Android to import.
 
 ## Configuration for Android
 
