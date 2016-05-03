@@ -22,7 +22,7 @@ To add Adform Advertisign SDK to your project:
 
 ## Configuration for Android
 
-You need to update `AndroidManifest.xml` file in you android directory, modify it according to [Adform Advertising SDK documentation](https://github.com/adform/adform-android-sdk/wiki/Getting-Started#5-update-androidmanifestxml).
+You need to update `AndroidManifest.xml` file in you android directory(Assets/Plugins/Android), modify it according to [Adform Advertising SDK documentation](https://github.com/adform/adform-android-sdk/wiki/Getting-Started#5-update-androidmanifestxml).
 
 Adform Advertising SDK Unity Plugin also requires the [Google Play Services](http://developer.android.com/google/play-services/setup.html). Google Play Services are located at `{ANDROID_SDK_LOCATION}/extras/google/google_play_services/libproject`, please import `google-play-services_lib` folder into `Assets/Plugins/Android` directory.
 
