@@ -4,7 +4,7 @@ Adform Advertising SDK Unity Plugin provides a way to integrate Adform ads in Un
 
 ## Downloading the Plugin
 
-Our plugin is available on [GitHub](https://github.com/adform-advertising-sdk-unity-plugin).
+Our plugin is available on [GitHub](https://github.com/adform/adform-advertising-sdk-unity-plugin).
  
 To add the downloaded plugin:
 
